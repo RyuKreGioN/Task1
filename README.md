@@ -1,4 +1,4 @@
-# Task1
+Cursor IDE
 New Repos
 
 ## 1. Tools Installed
